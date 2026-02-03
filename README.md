@@ -1,3 +1,5 @@
+# PLEASE USE [WebMCDevelopment/ayunViaProxyEagUtils](https://github.com/WebMCDevelopment/ayunViaProxyEagUtils) INSTEAD!
+
 this is a forked version of ayunami2000's ayunviaproxyeagutils with support for newer viaproxy versions.
 
 ## ORIGINAL README:
